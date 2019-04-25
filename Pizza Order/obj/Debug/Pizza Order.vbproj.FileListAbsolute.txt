@@ -1,0 +1,22 @@
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\bin\Debug\Pizza Order.exe
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\bin\Debug\Pizza Order.pdb
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\bin\Debug\Pizza Order.xml
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza Order.vbprojAssemblyReference.cache
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza_Order.frmPizza.resources
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza_Order.Resources.resources
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza Order.vbproj.GenerateResource.cache
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza Order.vbproj.CoreCompileInputs.cache
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza Order.exe
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza Order.xml
+C:\Users\jinda\Desktop\p-1821--Pizza_Ordering_system_dotnet\Pizza Order\obj\Debug\Pizza Order.pdb
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\bin\Debug\Pizza Order.exe
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\bin\Debug\Pizza Order.pdb
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\bin\Debug\Pizza Order.xml
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza Order.vbprojAssemblyReference.cache
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza_Order.frmPizza.resources
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza_Order.Resources.resources
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza Order.vbproj.GenerateResource.cache
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza Order.vbproj.CoreCompileInputs.cache
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza Order.exe
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza Order.xml
+C:\Users\jinda\Documents\Visual Studio 2017\Backup Files\Pizza Order\obj\Debug\Pizza Order.pdb
